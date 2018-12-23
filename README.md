@@ -1,6 +1,7 @@
 # Funny-Guiding-Robot-on-Raspberry-Pi-Platform
 *利用树莓派实现一个有趣的迎宾机器人  
-*Using Raspberry Pi2 to realize a funny guiding robot  
+*Using Raspberry Pi2 to realize a funny guiding robot 
+*实现功能：人脸检测->摇头点头进行迎客->播放欢迎语音(三段不同)->跳舞->下一个客人迎宾，三个后一直播放《学猫叫》
 ## 使用指南  
 1)下载整个文件包  
 2)在树莓派上装好Picamere,opencv,pygame等库(具体看代码import处)，注意确保自己有连接RPi的摄像头  
